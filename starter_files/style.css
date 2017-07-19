@@ -1,0 +1,43 @@
+header {
+
+
+}
+
+
+
+
+
+body {
+font-family: Helvetica, Arial, sans-serif;
+
+}
+
+#site_header{
+background-color: orange;
+}
+h2{
+  color: blue;
+}
+p{
+  line-height: 1.6
+}
+
+
+
+
+
+
+/*
+font info:
+    family - Helvetica, Arial, sans-serif
+    line-height - 1.6
+
+
+colors:
+    light gray - ##eee
+    gray - #dddddd
+    yellow - #ffd24a
+    orange - #ff8523
+    blue - #1fabe5
+    dark blue - #046c97
+*/
